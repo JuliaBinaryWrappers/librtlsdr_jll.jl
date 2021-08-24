@@ -1,0 +1,123 @@
+[[librtlsdr]]
+arch = "aarch64"
+git-tree-sha1 = "ced0e82e7534e7c6d763c82a3514446b8ce3a562"
+os = "macos"
+
+    [[librtlsdr.download]]
+    sha256 = "a2210fd90134e02dc858d15d5dfdd78d27928694f300872a4bd10b8afdf8270f"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.aarch64-apple-darwin.tar.gz"
+[[librtlsdr]]
+arch = "aarch64"
+git-tree-sha1 = "a6bf3ddb4dd4b2134465c626760d8814d9b49cbf"
+libc = "glibc"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "4c59a00e19a1e8a7fb39dfaff4db0e13d1d88c9a7c7e08fbcf8325a7363be221"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.aarch64-linux-gnu.tar.gz"
+[[librtlsdr]]
+arch = "aarch64"
+git-tree-sha1 = "8d0780a08a6b66b7f53d4f0ae4a38d38c550406b"
+libc = "musl"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "3f8a4c23b002f14a1679fcc656eebb7f95e34a7dff3b03305430cb498194d465"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.aarch64-linux-musl.tar.gz"
+[[librtlsdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f33e10de7259167e4315217bf9ade06e49496685"
+libc = "glibc"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "cc58fa04dacf2ee711262cf4960d2e049b0581440219cde275d9501d9955d075"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.armv7l-linux-gnueabihf.tar.gz"
+[[librtlsdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b202ade48d71271792c7d677e336e3b51a81a387"
+libc = "musl"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "6603bff49f1e37048e8d6c0c8e6ddadd6e53b3c2fc11e129ea60f98b0bdc2139"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.armv7l-linux-musleabihf.tar.gz"
+[[librtlsdr]]
+arch = "i686"
+git-tree-sha1 = "fb850fc8cd43bd42a97ee024df58d205d8ebff94"
+libc = "glibc"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "ca4e8795d3de12da8136ff52636bf71feff2702adf80fabc1f65d7cb1a4c0ec5"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.i686-linux-gnu.tar.gz"
+[[librtlsdr]]
+arch = "i686"
+git-tree-sha1 = "449828a8ecbd5b48d2c1d05defff8d97443ceaf7"
+libc = "musl"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "2271f582b8f86d950bd12141498e3c832a6dd19a067a7568f2c9ffb83bf4a1d4"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.i686-linux-musl.tar.gz"
+[[librtlsdr]]
+arch = "i686"
+git-tree-sha1 = "e815d3b5c0e790515a022ae39f0b78fda16d6ba6"
+os = "windows"
+
+    [[librtlsdr.download]]
+    sha256 = "7a85ab47a53cf57e37b9a95706e66a69ef9ec06fd3c53572c902a10d15f4c3f5"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.i686-w64-mingw32.tar.gz"
+[[librtlsdr]]
+arch = "powerpc64le"
+git-tree-sha1 = "efb6a435aca2816e0289c9f5f4893771caf5cdef"
+libc = "glibc"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "9abc7be6b7ab1d259e01de1b660270a938944215a2a8536ea65c941225a667c1"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.powerpc64le-linux-gnu.tar.gz"
+[[librtlsdr]]
+arch = "x86_64"
+git-tree-sha1 = "d8872658e3112dee3857b05040cf1c263250ca68"
+os = "macos"
+
+    [[librtlsdr.download]]
+    sha256 = "1323675ea7c79a18d5876ec4a71080d32e6f6860fb43ef3f04d8c911a2b5639f"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.x86_64-apple-darwin.tar.gz"
+[[librtlsdr]]
+arch = "x86_64"
+git-tree-sha1 = "7cc992488d56010dd38a3945e9677d69a5084460"
+libc = "glibc"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "c93836d56e97b3803b2fe79d4afff4c6e8970fa040503ffd51b781433f00ef68"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.x86_64-linux-gnu.tar.gz"
+[[librtlsdr]]
+arch = "x86_64"
+git-tree-sha1 = "47baa040f12b54408fbd50b19aded5303af71c87"
+libc = "musl"
+os = "linux"
+
+    [[librtlsdr.download]]
+    sha256 = "0312d54e9ae5519483039cdd732395a7019ba12f4e10902782f1f2716f264584"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.x86_64-linux-musl.tar.gz"
+[[librtlsdr]]
+arch = "x86_64"
+git-tree-sha1 = "b5fa8f97cdfb516a00a338bc847a7ddb018741e1"
+os = "freebsd"
+
+    [[librtlsdr.download]]
+    sha256 = "f7337b976e8cbb8d4dcba7b38bbb4cdf6fa98318f0448d3aa84692925256c2e0"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.x86_64-unknown-freebsd.tar.gz"
+[[librtlsdr]]
+arch = "x86_64"
+git-tree-sha1 = "2eb030cfbe9452504b10652efdf521eac620a1fb"
+os = "windows"
+
+    [[librtlsdr.download]]
+    sha256 = "b9119df699fd51cc072e80f2d03140b63a9ab670fb537526cb10f04d4a0e2585"
+    url = "https://github.com/JuliaBinaryWrappers/librtlsdr_jll.jl/releases/download/librtlsdr-v0.6.0+0/librtlsdr.v0.6.0.x86_64-w64-mingw32.tar.gz"
